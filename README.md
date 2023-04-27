@@ -1,5 +1,4 @@
 # CodeClause_WineQualityPrediction
-# CodeClause_WineQualityPrediction
 
 This project is focused on predicting the quality of wine using machine learning algorithms.
 
