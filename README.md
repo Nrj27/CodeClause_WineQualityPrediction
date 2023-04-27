@@ -4,7 +4,7 @@ This project is focused on predicting the quality of wine using machine learning
 
 ## Dataset
 
-The dataset used in this project is available on [Kaggle](https://www.kaggle.com/datasets/rajyellow46/wine-quality). It contains information about various physicochemical properties of wine and its corresponding quality rating given by experts. The dataset has 11 input features and 1 output feature (quality rating) with 4898 instances.
+The dataset used in this project is available on [Kaggle](https://www.kaggle.com/datasets/rajyellow46/wine-quality). It contains information about various physicochemical properties of wine and its corresponding quality rating given by experts. 
 
 ## Dependencies
 
